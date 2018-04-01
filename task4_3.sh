@@ -83,3 +83,6 @@ fi
 
 ## Fresh Backup
 tar -zcf "${BACKUPNAME}.tar.gz" "$1" 1>&2
+
+
+###Yes I know but I had very little time and it's very importable for me! I need chance!
